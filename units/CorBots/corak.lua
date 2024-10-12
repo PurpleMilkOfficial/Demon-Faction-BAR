@@ -100,7 +100,7 @@ return {
 		},
 		weapondefs = {
 			corwar_laser = {
-				areaofeffect = 8,
+				areaofeffect = 0,
 				avoidfeature = false,
 				beamtime = 0.5,
 				corethickness = 0.2,
@@ -118,8 +118,8 @@ return {
 				noselfdamage = true,
 				range = 360,
 				reloadtime = 2,
-				rgbcolor = "1 0.55 0",
-				rgbcolor2 = "0.9 1.0 0.5",
+				rgbcolor = "0.1 0.1 0.1",
+				rgbcolor2 = "0.9 0 0",
 				soundhitdry = "",
 				soundhitwet = "sizzle",
 				soundstart = "lasrfir3",
